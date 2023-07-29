@@ -1,2 +1,3 @@
 # Movie-Recommender-System
- Using Netflix movie reviews to group customers by their preferences with the ultimate goal of building a movie recommender for users. 
+TASK - Create a movie recommendation system by grouping customers by their preferences. 
+METHOD - Use the K-Means clustering algorithm to learn similarities between customer likes and dislikes.
